@@ -4,4 +4,4 @@ A simple two player game built with Javascript that require rolling a dice to ac
 
 The first person to get to 100 points wins 😉
 
-Hosted on: h
+Hosted on: `https://pig-game-mide.netlify.app/`
